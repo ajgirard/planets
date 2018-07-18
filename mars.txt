@@ -2,5 +2,4 @@
 # notes for Git Hub
 July 19th 2017
 
-This is low level to vim
-
+This is low level to vim. making some edits by adding more content. CONTENT.
